@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/superkart/static/css/main.a131dd9b.css",
+    "main.js": "/superkart/static/js/main.1d88f733.js",
+    "static/js/787.0c1a86ef.chunk.js": "/superkart/static/js/787.0c1a86ef.chunk.js",
+    "index.html": "/superkart/index.html",
+    "main.a131dd9b.css.map": "/superkart/static/css/main.a131dd9b.css.map",
+    "main.1d88f733.js.map": "/superkart/static/js/main.1d88f733.js.map",
+    "787.0c1a86ef.chunk.js.map": "/superkart/static/js/787.0c1a86ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a131dd9b.css",
+    "static/js/main.1d88f733.js"
+  ]
+}
