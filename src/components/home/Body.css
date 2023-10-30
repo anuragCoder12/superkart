@@ -1,0 +1,53 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+   grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+   grid-gap: 15px;
+   margin-top: 50px;
+   margin-left: 40px;
+   
+   
+}
+.imagecard{
+    display: flex;
+    
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #ddd;
+   height: auto;
+    box-shadow: 0 2px 4px rgb(20, 20, 20)
+    ;
+    position: relative;
+    width: 300px;
+   
+}
+.imagecard:hover{
+    box-shadow: 0 4px 8px rgb(20, 20, 20)
+    ;
+
+}
+.btn{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid  rgb(33, 33, 229);
+    border-radius: 6px;
+    cursor: pointer;
+    color:  rgb(33, 33, 229);
+   padding: 12px;
+    height: 50px;
+
+}
+.btn:hover{
+    background-color: rgb(33, 33, 229);
+    color: aliceblue;
+}
+.imagecard img{
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+}
+.imagecard p{
+    align-items: center;
+    font-style: italic;
+}

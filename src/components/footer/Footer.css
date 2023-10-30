@@ -1,0 +1,11 @@
+.foot{
+    
+    left: 0;
+    bottom: 0;
+    background-color: rgb(54, 54, 233);
+    margin-top: 100px;
+    padding: 20px;
+    text-align: center;
+    color: aliceblue;
+    font-style: oblique;
+}
